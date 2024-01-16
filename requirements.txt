@@ -1,0 +1,5 @@
+pytest~=7.4.4
+playwright~=1.40.0
+pytest-playwright~=0.4.3
+pytest-rerunfailures~=13.0
+pytest-pyreport~=1.4.0
